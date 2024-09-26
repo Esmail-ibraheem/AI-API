@@ -1,0 +1,4 @@
+1- facade = nanograd library itself 
+2- decorator = in the api code 
+3- proxy = i think the project html considered 
+4- prototype = i think considered we take the stable_diffusion objects and try on it. 
